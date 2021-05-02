@@ -1,0 +1,195 @@
+
+
+
+
+
+The Effects of Income on Leisure in the United States
+California State University, Sacramento
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abstract
+	Even though leisure growth has increased in general, individuals seem to feel increasingly stressed that they have less time for leisure. The topic of leisure has been studied various times in order to understand what the optimal level of leisure is to have with different incomes. This study will analyze the effects of income on leisure in the United States. The methodology will utilize OLS to regress the income on leisure in the year of 2012. The literature reviewed in this paper mostly looks at leisure over time or leisure and the effects that education have on it. This paper will seek to contrast this by using more recent data and by testing the effects of income on leisure using cross-sectional data from the American Heritage Time Use Study. The results from the model find that income had a positive but small effect on leisure. Therefore, there is some evidence that higher income will lead to lower leisure but it is not significant.
+
+
+JEL Codes: J20, J22, J29
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Introduction
+Leisure is a part of everybody’s life and there are many ways that we can choose to spend it. As the disparity in wages seems to keep growing, many workers might find themselves lacking the leisure time they once had in order to keep up with payments. Studying how income affects leisure is not only important to economists who want to understand their relationship, but also to workers who may use the information to either advocate a change in policy or a change in their behaviors. This paper will seek to expand on previous literature by utilizing more modern data and analyzing what effect income has on leisure. This then leads to the question, do higher incomes/wages lead to lower leisure time?
+In this paper, we will estimate the effect of income on leisure by using ordinary least squares and ordered logit models. These methods were chosen based on an article by Sevilla et al. (2012), that uses the American Time Use Survey for data and will use income, leisure, age, sex, education, marriage, student, how many children the respondent has under 5 years old, how many children they have between 5 and 18 years old, and if they work fulltime and part time as the variables. The authors use this data for their own paper, and they explore the relationship between income level and leisure time briefly which was the main inspiration for this research. There might also be merit in exploring a multinomial logit model as was explored in a journal article comparing time use in American and Danish households (Gupta et al. 2010). As these research papers are the closest to this study, their methods for analysis seem the most appropriate for this research. After thorough analysis, the findings show that leisure time tends to increase as income increases. 
+
+	Literature Review
+Economists in this literature have spent the past decades trying to understand the correlation of income and leisure. The order in which these will be presented are chronologically because as the years have passed, new research has provided more insight on what variables define leisure and how to measure them. In some of the earlier research, leisure was typically defined as time spent away from work. However, Becker (1965) noted that households can spend their time being productive outside of the market sector as well. The author also incorporates a model which says that when people form households of more than one person, they tend to give up their own utility for a new utility that benefits everyone. In this paper, Becker (1965) found that wage changes influence substitution effects regarding their own time-use and their partners time-use. Another article that will see some reference in other papers is Ghez and Becker (1975) where the authors studied leisure time in the United States and saw that the amount of leisure has seemed to increase over time. These articles serve as a backbone to several newer research papers that seek to expand on their methods of measurement and definitions of leisure to provide a more nuanced study.
+Aguiar and Hurst (2007) wanted to study the trends in the amount of time spent in the United States over the past forty years. They specifically wanted to see how leisure time has changed for men and women between the years of 1965 and 2003. The authors used data from the Current Population Survey and Panel Study of Income Dynamics. Their surveys were from 1965–1966 America’s Use of Time, 1975–1976 Time Use in Economics and Social Accounts, 1985 Americans’ Use of Time, 1992–1994 National Human Activity Pattern Survey, and the 2003 American Time Use Survey and analyzed ages between 21 and 65 who are not students or retired. Like Ghez and Becker (1975) they found that there has been a general increase in leisure time enjoyed by Americans over the time that they analyzed. They find that leisure increased among both men and women with men having almost an hour more leisure time gained than women. They also found that individuals with more education or higher income did not have their leisure time increased as much as low-income or less educated groups. This led them to the conclusion that leisure time has increased for everyone but mostly to less educated or low-income adults.
+Gupta and Stratton (2010) take the ideas of Aguiar and Hurst (2007) and Becker (1965) and expand on them further to include both the US and the Danish populations. In this article, the authors wanted to study the impact that bargaining power has on leisure or time use. The authors wanted to particularly study what are the impacts of different measures on leisure among American and Danish couples. They used data from the Danish Time Use Survey and the American Time Use Survey and consists of a population between the ages 16 and 74 for the Danish sample and ages 20 and 60 for the American sample. They used a multinomial logit model to analyze the data among dual, male, and female only earner couples. Like Aguiar and Hurst (2007) and Becker (1965) findings, it was found that leisure time among individuals have increased over time and that more educated individuals report less leisure time in the US. They used education and wages as a measure of power and found that individuals with more power had more leisure time and it was found to be most consistent in the US. However, they admit that these results may vary due to personal preferences and skill differences.
+Sevilla et al. (2012) researched the effect of different education levels on leisure. They focused on the effect that education had on the quality of leisure that a person consumed or enjoyed. The authors used data from the American Heritage Time Use Study and constructed three indicators that measure quality of leisure. This data covers five decades, ranging from the years 1965 to 2003 and consists of adults from ages 21-65 who are not students or who are not yet retired. The authors use ordinary least squares and logit models to analyze this data. Similar to Aguiar and Hurst (2007) and Ghez and Becker (1975), Sevilla et al. (2012) found that there was an increase in leisure time in the United States, with the most leisure time growth being enjoyed by less educated individuals. However, Sevilla et al (2012) expanded on the previous literature and looked at the quality of leisure rather than just the quantity. Their paper found that even though there has generally been a decrease in the quantity of leisure in the United States, the quality of leisure was higher among adults who had more education and income when compared to adults with less education and lower income. 
+Early research focused on more broad and aggregate data to determine if leisure time increased with either income or education. This research was followed by later papers that focused on narrower fields such as the comparison of two countries using household incomes and determining the quality of leisure and how to define it. This paper will contribute to some of these previous papers that were mentioned and will analyze the correlation between income in the United States and leisure time spent. As the previously stated papers have found, income will affect leisure time. However more recent data will be used to conclude if that is still the case considering the substantial changes in social norms and economic changes during this time.
+
+III. Methodology
+	Economic Model
+When looking at the effect of income on leisure we look at how much influence wages can have on a person’s leisure time. We can explain the decision to participate in a certain amount of leisure time using the theory of utility. With the theory of utility, we can see if someone chooses to participate in more leisure instead of working or if they choose to give up leisure in return for a higher income. These preferences can change over time due to age and due to circumstances in life like being let go of a job or a market crash. We can use the relationship of utility and income provided by Gupta and Stratton (2010) to relate it to this utility theory. This utility theory can be found in a model where the amount of income and leisure is compared between two different income levels. The model would consist of a budget line showing the total amount of income an individual can earn and the amount of leisure they consume.
+ 
+As we can see in Figure 1, there are two different income levels and their respective budget lines. As shown on the graph, a higher income seems to result in a lower consumption of leisure time. We can see from this sample data that since the higher income individual can earn more, they choose to consume less leisure time. Compared to the higher income individual, the graph shows that the low-income respondent has their indifference curve at a higher leisure quantity which shows that they value the extra time that they receive from leisure more than they from money gained from work. With this we can see that those that earn less will consume more leisure and if they want to earn as much as their high-income counterparts then they will have to forfeit some of their leisure to do so. 
+	In their model, Gupta and Stratton (2010) show a version of this to be the case and explain that the utility function has Utility as the dependent variable and woman, man, household, consumption, housework time, and women’s preferences being the independent variables. The last variable is used as a power measure that is used to see how much influence a power measure has on leisure time. The authors then state that households in this model seek to maximize their utility in relation to an income constraint model that they provide. In the income constraint model the variables are wage, nonlabor income, and the total time that each partner has to each other. Their last model is a time constraint model where the variables are household, leisure time, and the time employed in the market. Gupta and Stratton (2010) show that leisure time growth was higher for low-income individuals when compared to those who had a higher income. However, they found that increasing the power of an individual also increased their share of the resources in a household. This power of an individual is based on education and it was found in their paper that people with more power are viewed as more important so they will generally partake in less housework time. This paper will seek to use the theory of utility by looking at individual incomes and seeing what will have the most effect on leisure time.
+
+	Empirical Model
+In order to perform the regression analysis, the data was pulled from the American Heritage Time Use Study or AHTUS. This data is typically panel data as it looks at multiple individuals over different years. However, the data discussed in this paper will be cross-sectional data as it will only consist of data of multiple individuals all within the year of 2012. This information was gathered by the Centre of Time Use Research and the amount of observations that were gathered among all variables summed to 6,531. The equation and variables that are used in this regression are as follows:
+LEISURE=α+β_1 INCOME+β_2 EDUC+β_3 AGE+β_4 SEX+β_5 MARRIED+β_6 UNDER5+β_7 UNDER18+β_8 FULLTIME+β_9 STUDENT+ε
+
+Dependent variable:
+LEISURE = This leisure is a combination of the variables: 
+OUTHM - total minutes out of home activities
+EXERC- total minutes in sport and exercise
+MEDIA - total minutes use media & communication
+TRAV - total minutes travelling
+Independent variables:
+EDUC = Highest level of education attained
+1 = Some College, College Grad, or Post College
+0 = 0 – 8th, 9 – 11th, or High School Grad
+MARRIED = The individual’s marital status
+1 = MARRIED
+0 = NOT MARRIED
+STUDENT = If the respondent is in school
+0 = no
+1 = yes
+	INCOME = employment income from last month (in US dollars)
+under5 = number of children aged <5 in household
+	under18 = number of children aged <18 in household
+	Sex = The biological sex of the respondent
+1 = male
+0 = female
+AGE = The current age of the respondent
+FULLTIME = If the respondent is in a fulltime job
+0 = no
+1 = yes (21+ hrs 65-85; 35+ hrs 92-03)
+The table below provides some interesting insight of the data collected on 6,531 individuals in the year 2012. While a good portion of the data was binary, there were still some variables that I had to change or make in order to better encompass the data. The variables that were used to calculate leisure were not specifically defined by the Centre of Time Use Research as the only variables of leisure but were used in this paper as they cover enough of a broad scope to cover most leisure activities.
+Table 1:
+Mean Income	Standard Deviation	Highest income (per month)	Average age	Average Leisure time (in minutes)
+3655.2
+	2689
+	11538.44
+	43
+	382 minutes (roughly 6 hrs and 30 min)
+
+
+Based on Table 1, we can see that the arithmetic mean of all the individuals was $3655.2 and standard deviation was 2689. The number that was calculated for the income seems to be what we would expect as it roughly reflects the wages across the country. The standard deviation was surprising as it seemed very high when compared to the mean. The highest income recorded per month was also a surprising $11,538 dollars because of its distance from the average and how many other individuals share the similar level of income. The average age is as expected and so is the average leisure as between sleep and work there is usually around six or so hours to rest between days.
+The independent variables are based on factors that are shown to be important in previous literature. Both Gupta and Stratton (2010) and Sevilla et al. (2012) explain the importance that income and education can make on leisure. Gupta and Stratton (2010) specifically talk about how both income and education increase a person’s power in a household. This power also determines how much time the individual spends on housework and how much leisure time they consume. Sevilla et al. (2012) also show that income influences the quantity of leisure time through other works and show that highly educated individuals enjoy less leisure time than those who have less education but enjoy a better quality of leisure overall. Both income and education are expected to have negative coefficient on leisure because of these findings. Age will be expected to be positively correlated as well since older individuals might have more time being away from school and other projects. 
+However, this can also depend on if they have a child living with them or not as well. Traditionally, for the variable sex we would see a positive correlation as older markets would see more men in the workforce than women and therefore more power to determine leisure time. Aguiar and Hurst (2007) and Sevilla et al. (2012) also expand on this by saying that leisure increased by around four hours for women between 1965-2003 and six hours for men. More recent data might see these results to be more equal as women have a stronger presence in the labor force than they did many years ago. the variables married, under5 and under18 are also expected to have a negative coefficient on leisure because as stated by Gupta and Stratton (2010) an individual would choose to give up some of their utility for a new utility that is shared among the whole household. It is also expected that having more children will take up more leisure time to raise them so the coefficients on under5 and under18 are negative as well. Part-time and fulltime are also expected to have negative coefficients on leisure as they gauge how much time somebody spends at work; it is expected that part-time variable will have less of an effect than the fulltime variable. 
+Lastly, even though there are many leisure activities to participate in as a student, there are also constant obstacles like homework, driving, class time, studying, applying for programs, internships, and jobs. Many people also support themselves through school as well in order to cover rent or tuition costs. Due to these reasons, the student variable is expected to have a negative coefficient on leisure.
+	Results
+The results can be seen in the table below. There were tests that were conducted before analyzing these results. The first test was a variance-inflation factor test. This tested for multicollinearity and was found that the values on all variables were below 2 so there was nothing more to be done to adjust for multicollinearity. Next we used Ramsey’s RESET test to test for regression specification. The p-value from this test was very small so we reject the null hypothesis and find that there might be functional form or omitted variable issues. Lastly, we test for heteroskedasticity using the Breusch-Pagan Heteroskedasticity test and find that the p-value was low which may suggest that there may be some non-normality in the data due to heteroskedasticity. To correct for this, robust standard errors were used to 
+OLS with HC Standard Errors
+====================================
+             Dependent variable:    
+         ---------------------------
+                   Leisure          
+------------------------------------
+lnIncome            0.637           
+                   (3.580)          
+                                    
+Age                 0.209           
+                   (0.227)          
+                                    
+Sex               60.218***         
+                   (5.179)          
+                                    
+HigherEd            0.600           
+                   (5.874)          
+                                    
+Married          -20.669***         
+                   (5.554)          
+                                    
+Under18          -19.548***         
+                   (2.664)          
+                                    
+Under5           -29.177***         
+                   (4.950)          
+                                    
+Fulltime         -34.378***         
+                   (7.267)          
+                                    
+Student           -18.930*          
+                  (10.923)          
+                                    
+Constant         403.847***         
+                  (25.909)          
+                                    
+====================================
+====================================
+Observations        6,515
+R2				0.056
+Adjusted R2		0.055
+Note:    *p<0.1; **p<0.05; ***p<0.01	
+
+The main variable of interest, which was Income, had a positive effect on leisure which was surprising as it was expected to be more negative due to people with higher incomes either working longer or working on more projects. However, it was found by Gupta and Stratton (2010) where they find that individuals in couples that had higher earnings had a higher coefficient on leisure as they had more power. While this did influence Leisure, it was not nearly as much of an effect as it was predicted to be.
+	The variable Age is also positive which is also expected as when a person reaches an older age they typically would have more leisure as they get closer to retirement and as individuals start to become more comfortable and experienced in their careers and in what they want to participate in as leisure. Sex also had a positive slope which was also indicated by Gupta and Stratton (2010) where they show that being a male or female influenced leisure time, however they explain that this effect has decreased over the years. HigherEd has a negative slope and that was also to be expected, Sevilla et al. (2012) and Gupta and Stratton (2010) explain that education has a negative relationship with leisure time. Sevilla et al (2012) explain that individuals with a higher education have lower leisure time but a higher leisure quality overall. Gupta and Stratton mention how individuals with higher education spend more time working but also end up choosing their leisure time quantity when they are at home. 
+	Married is another variable that was expected to have a negative slope with leisure time. As highlighted by Gupta and Stratton (2010) this was because individuals often give up their own utility in order to provide a new utility for the household. This often causes both individuals to lose their own leisure time in order to make a new equilibrium that fits both. The variable Under18 is negative which is what was also expected, as an individual has more kids, they must spend more time adjusting their leisure to make sure that they are taken care of. Under5 is another variable that was expected to have a negative slope for the same reasons as the variable Under18. It also makes sense that it has a greater impact than the Under18 variable since typically children that are between the ages of five and eighteen do not need as much time dedicated to them as younger children do. 
+	The variable Fulltime also was expected to be negative; this is because if someone works fulltime then they would have less time to commit to leisure activities. Alternatively, instead of fulltime work, individuals would participate in part-time work. This would still take time away from their leisure but not as much as fulltime work. Lastly, the student variable was also expected to be negative, this is because most student typically spend a long time studying and doing homework as well as possibly working part-time as well in order to pay loans or pay rent. We expected the coefficient on students to be lower than what it was but since they are still in school and might have more time to socialize and participate in activities that let them close the gap.
+	With the tests and variables in mind, we can see that these variables have a significant effect on leisure time and that there are some things to change with the tests. In order to improve our r-squared or heteroskedasticity, the data either needs to be crunched down or there need to be more variables that explain the dependent variable. However, with these consequences in mind, the variables still had the expected signs on the coefficients and the many variables that explain or affect leisure can explicate why r-squared so low.
+	Conclusion
+This research presents some new evidence of the effects of income on leisure as it uses more recent data when compared to previous literature. Gupta and Stratton (2010) state in their article that those with higher incomes or education have a stronger power dynamic and thus can have more leisure time as a result. In this paper, the regression results have shown that income influences leisure but not as much as was shown in the previous articles. When compared to Sevilla et al. (2012) and Aguiar and Hurst (2007) our research shows slightly contradicting results. These authors show that leisure time has generally increased over time but that individuals with higher income or higher education received less of this growth when compared to individuals with lower education or income. While previous authors focused mainly on the impact of education level on leisure and the growth of leisure over several time periods, this paper sought to focus on the impact of income on leisure over a single time period. The reason for this was not only to see what the effects might be in modern data but to also see if impactful events like the 2008 recession might have changed the outcome. Our research shows that income increases leisure but the rate at which income was shown to increase leisure was very small. This leads us to believe that according to more recent data, income tends to increase leisure slightly. 
+There were several drawbacks when obtaining this data from the American Heritage Time Use Study. While the data is more recent than previous literature, the data set relied on willing participants to participate in the study and contribute their data. This can lead to problems such as untrue responses and unanswered questions. The data was also only from the United States and within one time period which was 2012. Another problem is that this data is spread throughout many states in the United States, so certain incomes that are either particularly high or low can belong to states that have higher or lower costs of living. Lastly, there have been many changes in American society that may have resulted in our answer having a different outcome than previous literature. The most recent literature that was covered in this paper was from 2012 and their most recent data was from 2003. That means that there is a nine-year gap between data that could have made many changes to this statistic.
+Future endeavors in this topic will include more variables as the ones that were chosen in this paper explain some of the effects on leisure but would benefit from having more. Another section of data that should be considered is separating respondents by state in order to show a more accurate depiction of income and leisure distribution. This topic will need to be revisited constantly in the future because incomes in society and social norms change frequently. There might also be a change in the different allocation of income and leisure because of certain events or unforeseen circumstances.
+
+
+
+
+
+
+
+
+
+
+
+Bibliography
+Aguiar, M., & Hurst, E. (2007). Measuring trends in leisure: The allocation of time over ﬁve decades. The Quarterly Journal of Economics, 122(3), 969–1006.
+Becker, G. S. (1965). A theory of the allocation of time. Journal of Political Economy, 75(299), 493–517.
+Datta Gupta, N., & Stratton, L. S. (2010). Examining the Impact of Alternative Power Measures on Individual Time Use in American and Danish Couple Households. Review of Economics of the Household, 8(3), 325–343. https://doi-org.proxy.lib.csus.edu/https://link.springer.com/journal/volumesAndIssues/11150
+Gershuny, J. (2009a). Veblen in reverse: Evidence from the multinational time-use archive. Social Indicators Research, 93, 37–45.
+Ghez, G., & Becker, G. S. (1975). The allocation of time and goods over the life cycle. New York: Columbia University Press.
+Sevilla, A., Gimenez-Nadal, J. I., & Gershuny, J. (2012). Leisure Inequality in the United States: 1965-2003. Demography, 49(3), 939–964. https://doi.org/https://link.springer.com/journal/volumesAndIssues/13524
+
